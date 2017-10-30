@@ -8,7 +8,7 @@ title:               Rami's Blog
 tagline:             'biomedical engineering - data - urbanism'
 description:         'A blog about engineering, health, urbanism and other tidbits'
 url:                 rami-codes.github.io
-baseurl:             ''
+baseurl:             rami-codes.github.io
 paginate:            5
 
 # About/contact
