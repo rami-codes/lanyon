@@ -6,6 +6,6 @@ title: Credits
 
 <p class="message">
   Lanyon Jekyll theme developed by Mark Otto. Released under MIT license.
-<\p>
+</p>
   
 * [Mark's Github page](https://github.com/mdo)
