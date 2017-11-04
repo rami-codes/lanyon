@@ -7,6 +7,17 @@
   <div class="sidebar-item">
     <p>{{ site.description }}</p>
   </div>
+  <div id="contact-list" style="text-align:center">
+<!-- contact icons go here --> 
+    {% if site.author.github %}
+  <a href="https://github.com/{{ site.author.github }}">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-square-o fa-stack-2x"></i>
+      <i class="fa fa-github-alt fa-stack-1x"></i>
+    </span>
+  </a>
+{% endif %}
+</div>
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
