@@ -5,7 +5,10 @@
 .sidebar-logo {
       padding: 0px;
 }
-.sidebar-logo img {
-      width: 14rem;
-      margin: 0 auto;
+.sidebar-logo{
+  background-image: url("{{ site.baseurl }}/assets/images/logo.jpg">)
+  width: 14rem;
+  height: 100px;
+  background-position: center;
+  background-size: cover;
 }
