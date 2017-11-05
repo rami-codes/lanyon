@@ -1,7 +1,10 @@
+.sidebar-credits{
+    font-size: .75rem; /* 15px */
+}
+
 .sidebar-logo {
       padding: 0px;
 }
-  
 .sidebar-logo img {
       border-radius: 50%;
       -moz-border-radius: 50%;
