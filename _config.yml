@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               concave down
 tagline:             'biomedical engineering - data - urbanism.'
-description:         'rami-code's blog on biomedical engineering, data, urbanism and other tidbits'
+description:         'rami-codes blog on biomedical engineering, data, urbanism and other tidbits'
 url:                 rami-codes.github.io
 baseurl:             ''
 paginate:            5
