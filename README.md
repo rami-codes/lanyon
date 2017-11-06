@@ -4,14 +4,15 @@ rami-code's blog.
 **Mark Otto**
 - <https://github.com/mdo>
 
-
 # Modifications
-- Google analytics
+- Font
 - Archive
 - Excerpts
 - Sidebar image
+- Google Analytics
 - Tags (soon to be implemented)
 - Misc. fixes for Jekyll 3
 
 ## License
-Open sourced under the [MIT license](LICENSE.md).
+Open sourced under the [MIT license](LICENSE.md). 
+Feel free to fork me.
