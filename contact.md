@@ -7,5 +7,4 @@ title: Contact
    I've got all (read: many of) the social networks!
 </p>
 
-## Contact me
-Drop me an [e-mail](http://www.google.com/recaptcha/mailhide/d?k=01nZcmyBJDeVP2vymBqhEXVg==&c=HbmSu-ZlvJmZuz8p-tOKItHxSZchazrBd-MWXuAkHnE=)
+Drop me an [e-mail](http://www.google.com/recaptcha/mailhide/d?k=01nZcmyBJDeVP2vymBqhEXVg==&c=HbmSu-ZlvJmZuz8p-tOKItHxSZchazrBd-MWXuAkHnE=){:target="_blank"}
