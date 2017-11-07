@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact + About
+title: About
 ---
 
 <p class="message">
