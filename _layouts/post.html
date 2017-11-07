@@ -9,8 +9,8 @@ layout: default
   {{ content }}
 </div>
 <div class="tags">
+     <h2>Tags</h2>
      <ul class="tags">
-    <h2>Tags</h2>
         {% for tag in page.tags %}
         <li><a href="{{site.baseurl}}tags#{{tag}}" class="tag">{{ tag }}</a></li>
       {% endfor %}
