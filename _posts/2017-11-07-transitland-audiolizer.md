@@ -3,7 +3,6 @@ layout: post
 title: Turning transit data into music using audiolization
 tags: [urbanism,data]
 ---
-
 Data visualization is all the rage these days. In my attempt to jump on this fruitful bandwagon I began exploring using [transitland](https://transit.land/), a super-awesome open-source tool that's aggregating transit data from agencies around the world and enabling some pretty neat stuff! (seriously, check them out) Anyway, I created a cool visualization of the TTC, everyone's beloved (read: love to hate) public-transit agency in Toronto. At the end I had this awesome looking video with pure silence in the background. That's when I thought... "Hey, I'm going to start a metal band" (my dream) and "we're gonna play some awesome backing music!". Then I thought, "wait! what if we can do even better, and represent the data with sound or music?". Hmmm....
 
 # Visualizing data: a demonstration using transitland-processing animation
