@@ -43,7 +43,8 @@ Fun fact, the last three notes are actually the chime of the TTC! When the numbe
 
 Same is true for the number of buses and tempo. For volume, I used a continous change based on the number of streetcars at a given point in time. Running the program I got the following graph of the audio output: 
 
-![alt text](https://raw.githubusercontent.com/rami-codes/rami-codes.github.io/master/assets/images/audio_output_plot.png "Audio output waveform")
+![alt text](https://raw.githubusercontent.com/rami-codes/rami-codes.github.io/master/assets/images/audio_output_plot.png "Audio output waveform")  
+
 (Notice, how it follows the graph from the visualization video! That's a good sign.)
 
 
