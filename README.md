@@ -10,9 +10,10 @@ caoncave down. a blog by rami-codes.
 - Excerpts
 - Sidebar image
 - Google Analytics
-- Tags (soon to be implemented)
-- Misc. fixes for Jekyll 3
+- Tags
 - Switch to Kramdown
+- Misc. fixes for Jekyll 3
+
 
 ## License
 Open sourced under the [MIT license](LICENSE.md). 
