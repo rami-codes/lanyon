@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+order: 5
 ---
 
 <p class="message">
