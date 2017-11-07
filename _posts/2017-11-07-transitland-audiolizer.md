@@ -1,3 +1,9 @@
+---
+layout: post
+title: Turning transit data into music using audiolization
+tags: [urbanism,data]
+---
+
 Data visualization is all the rage these days. In my attempt to jump on this fruitful bandwagon I began exploring using [transitland](https://transit.land/), a super-awesome open-source tool that's aggregating transit data from agencies around the world and enabling some pretty neat stuff! (seriously, check them out) Anyway, I created a cool visualization of the TTC, everyone's beloved (read: love to hate) public-transit agency in Toronto. At the end I had this awesome looking video with pure silence in the background. That's when I thought... "Hey, I'm going to start a metal band" (my dream) and "we're gonna play some awesome backing music!". Then I thought, "wait! what if we can do even better, and represent the data with sound or music?". Hmmm....
 
 # Visualizing data: a demonstration using transitland-processing animation
@@ -6,9 +12,7 @@ Data visualization is all the rage these days. In my attempt to jump on this fru
 I orginally set out to simply follow the easy-as-pie steps of the [transitland-processing-animation](https://github.com/transitland/transitland-processing-animation) and end up with a pretty animation of the TTC. For which I ran the following command to parse data from a single day (Oct 23/2017).
 
 ```python
-
 python transitflow.py --name=bart --operator=o-dpz8-ttc --date=2017-10-23
-
 ```
 
 This took many hours to download. Not sure if my internet is painfully slow or if there is a time-limit to the API calls (probable). Nonetheless, as they say, patience is a virtue. The strange looking code after the `--operator` is simply the OneStop-ID of the TTC which you can read all about [here](https://transit.land/feed-registry/operators/o-dpz8-ttc). Special thanks to the City of Toronto for their OpenData initiative (keep it up!)
