@@ -1,4 +1,4 @@
-rami-code's blog.
+caoncave down. a blog by rami-codes.
 
 # Based on Lanyon
 **Mark Otto**
@@ -12,6 +12,7 @@ rami-code's blog.
 - Google Analytics
 - Tags (soon to be implemented)
 - Misc. fixes for Jekyll 3
+- Switch to Kramdown
 
 ## License
 Open sourced under the [MIT license](LICENSE.md). 
