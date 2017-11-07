@@ -37,23 +37,15 @@ In that project, the beats/minute controlled the tempo of the music and the part
 
 First, I downsampled the original transit count arrays from 3600 to 60 datapoints to make things more manageable and so that I could deal with each second of the minute long video. With this, I wrote Matlab code to translate the number of subways into the pitch, the number of buses into the tempo, and the number of streetcars into the volume.  For the pitch, and tempo I used the datapoint z-score to assign a discreete value based on the number of subways and buses respectively. Using the z-score means that if a given subway count data point (that is, the number of subways at a given point in the day) has a z-score of > 1.0 (i.e. in in the ~15th percitle) it will cause a noticeable change in the pitch. These are the notes I used for the pitch: 
 
-<center>
 ![alt text](https://raw.githubusercontent.com/rami-codes/rami-codes.github.io/master/assets/images/piano_notes.PNG "pitch notes")
-
-
-
-</center>
 
 Fun fact, the last three notes are actually the chime of the TTC! When the number of subways is decreasing after rush hour you should be able to hear the iconic C#5, A#4, F#4.
 
 Same is true for the number of buses and tempo. For volume, I used a continous change based on the number of streetcars at a given point in time. Running the program I got the following graph of the audio output: 
 
-<center>
 ![alt text](https://raw.githubusercontent.com/rami-codes/rami-codes.github.io/master/assets/images/audio_output_plot.png "Audio output waveform")
-
-
 (Notice, how it follows the graph from the visualization video! That's a good sign.)
-</center>
+
 
 
 Then I put the visualization I created using the transitland-processing-animation together with the audio output and ta-da! I got the video you saw above.
