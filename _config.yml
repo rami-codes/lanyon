@@ -21,3 +21,4 @@ author:
 # Custom vars
 version:             1.0.3
 markdown:            kramdown
+excerpt_separator:   |
