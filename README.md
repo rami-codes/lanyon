@@ -1,7 +1,7 @@
-caoncave down. a blog by rami-codes.
+A blog by rami-codes.
 
 # Based on Lanyon
-**Mark Otto**
+Originally created by **Mark Otto**
 - <https://github.com/mdo>
 
 # Modifications
