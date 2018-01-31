@@ -1,7 +1,7 @@
 A blog by rami-codes.
 
 # Based on Lanyon
-Originally created by **Mark Otto**
+Original theme created by **Mark Otto**
 - <https://github.com/mdo>
 
 # Modifications
